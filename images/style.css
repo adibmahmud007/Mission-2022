@@ -1,0 +1,166 @@
+.first-section{
+    display: flex;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    
+
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+    padding-left: 10%;
+   
+    
+}
+.h-text{
+    padding-top: 8%;
+}
+.blue-color{
+    color: rgb(11, 38, 171);
+}
+.blue-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(33, 153, 213, 0.749),rgb(7, 10, 106));
+    color: white;
+    padding: 15px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.blue-border{
+    font-size: 60px;
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    
+}
+.paragraph{
+    font-size: 30px;
+    width: 80%;
+}
+
+
+/*2nd section*/
+.second-section{ display: flex;
+    width: 90%;
+    padding: 5%;
+    
+
+}
+.mission{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.one-third-width{
+    width: 45%;
+    
+}
+#box-one{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    background-color:rgb(206, 238, 238);
+    border-radius: 15px;
+}
+.second-section img{
+    width: 50%;
+}
+#box-two{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    background-color:rgba(255, 192, 203, 0.466);
+    border-radius: 15px;
+}
+#box-three{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    background-color:rgba(230, 201, 144, 0.416);
+    border-radius: 15px;
+}
+/*3rd section*/
+.thrid-section{
+    display: flex;
+    width: 90%;
+    padding: 5%;
+    background-image: url(/images/shapes/shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 90% 95%;
+    
+    
+
+}
+
+.thrid-section h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/*4th section*/
+.four-section{
+    display: flex;
+    width: 80%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 3%;
+    background-image: url(/images/shapes/shape-7.png),url(/images/shapes/shape-6.png);
+    background-size: 200px,200px;
+    background-repeat: no-repeat,no-repeat;
+    background-position: 12% 5%,10% 95%;
+    padding-bottom: 5%;
+
+}
+
+.corona{
+    font-size: 50px;
+    text-align: center;
+}
+.stay-safe{
+    font-size: 50px;
+}
+    
+/*5th section*/
+
+.fifth-section{
+    display: flex;
+    width: 90%;
+    padding: 5%;
+    background-image:url(/images/shapes/shape-1.png) ;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: 4% 40%;
+}
+
+
+.fifth-section h1{
+    font-size: 50px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+footer h1{
+    font-size: 50px;
+}
+.gradient{
+    font-size: 20px;
+  background: -webkit-linear-gradient(rgb(13, 110, 200),rgb(15, 162, 84));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    
+}
