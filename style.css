@@ -159,8 +159,6 @@ footer h1{
 }
 .gradient{
     font-size: 20px;
-  background: -webkit-linear-gradient(rgb(13, 110, 200),rgb(15, 162, 84));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+ 
     
 }
